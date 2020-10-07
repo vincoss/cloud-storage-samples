@@ -1,7 +1,6 @@
 ﻿using Microsoft.Graph;
 using Microsoft.Graph.Auth;
 using Microsoft.Identity.Client;
-using Microsoft_OneDrive_Samples_Test.Services;
 using System;
 using System.Collections.Generic;
 using System.Text;
